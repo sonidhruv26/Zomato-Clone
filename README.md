@@ -52,10 +52,6 @@ The Zomato Clone is a static web page that you can use for demonstration or lear
 
 We welcome contributions from the community. If you have any ideas for improvements or new features, please submit an issue or a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Enjoy exploring the world of food and drinks with this Zomato Clone! If you have any questions or feedback, feel free to reach out. Happy coding! 🍔🍕🍣🥂
