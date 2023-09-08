@@ -16,8 +16,6 @@ Welcome to the Zomato Clone repository! This project is a web-based application 
 
 This Zomato Clone is a mock-up of the popular food discovery and delivery platform, Zomato. It aims to provide users with an experience similar to the original Zomato website. You can explore various categories of restaurants, check out curated collections, and discover popular localities for dining in and around Ahmedabad.
 
-![Zomato Clone Screenshot](assets/screenshot.png)
-
 ## Features
 
 - **Navigation:** An intuitive navigation bar that allows users to access key sections like "Order Online," "Dining," and "Log in/Sign up."
