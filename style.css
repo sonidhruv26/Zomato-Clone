@@ -60,7 +60,7 @@ i {
 /* Header */
 
 header {
-    background: linear-gradient(to bottom, rgba(0,0,0,0.4), rgba(0,0,0,0)) , url(assets/asset\ 2.avif);
+    background: linear-gradient(to bottom, rgba(0,0,0,0.4), rgba(0,0,0,0)) , url(./assets/asset\ 2.avif);
     height: 420px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -175,13 +175,13 @@ header {
 }
 
 .cat-card .online {
-    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.9)),url(assets/asset\ 5.avif);
+    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.9)),url(./assets/asset\ 5.avif);
     background-size: cover;
     background-position: center;
 }
 
 .cat-card .dining {
-    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.9)),url(assets/asset\ 6.avif);
+    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.9)),url(./assets/asset\ 6.avif);
     background-size: cover;
     background-position: center;
 }
@@ -218,25 +218,25 @@ header {
 }
 
 .col-card .card1 {
-    background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.9)),url(assets/asset\ 8.avif);
+    background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.9)),url(./assets/asset\ 8.avif);
     background-size: cover;
     background-position: center;
 }
 
 .col-card .card2 {
-    background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.9)),url(assets/asset\ 10.avif);
+    background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.9)),url(./assets/asset\ 10.avif);
     background-size: cover;
     background-position: center;
 }
 
 .col-card .card3 {
-    background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.9)),url(assets/asset\ 12.avif);
+    background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.9)),url(./assets/asset\ 12.avif);
     background-size: cover;
     background-position: center;
 }
 
 .col-card .card4 {
-    background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.9)),url(assets/asset\ 14.avif);
+    background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.9)),url(./assets/asset\ 14.avif);
     background-size: cover;
     background-position: center;
 }
