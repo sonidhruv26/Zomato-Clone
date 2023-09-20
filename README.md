@@ -1,4 +1,3 @@
-# Zomato-Clone
 # Zomato Clone
 
 Welcome to the Zomato Clone repository! This project is a web-based application inspired by Zomato, designed to help users discover the best food and drinks in various cities. Whether you're looking for restaurants, cafes, pubs, or bars, this clone has you covered.
